@@ -1,0 +1,15 @@
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/bin/Debug/net7.0/Variables_Exercise1
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/bin/Debug/net7.0/Variables_Exercise1.deps.json
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/bin/Debug/net7.0/Variables_Exercise1.runtimeconfig.json
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/bin/Debug/net7.0/Variables_Exercise1.dll
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/bin/Debug/net7.0/Variables_Exercise1.pdb
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.csproj.AssemblyReference.cache
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.AssemblyInfoInputs.cache
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.AssemblyInfo.cs
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.csproj.CoreCompileInputs.cache
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.dll
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/refint/Variables_Exercise1.dll
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.pdb
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/Variables_Exercise1.genruntimeconfig.cache
+/Users/lydiazamora/Desktop/repos/Variables_Exercise1/Variables_Exercise1/obj/Debug/net7.0/ref/Variables_Exercise1.dll
